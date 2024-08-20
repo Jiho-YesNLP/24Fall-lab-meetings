@@ -3,15 +3,18 @@
 
 ## Schedule
 
-| Date       | Topic                                                                                                                                       | Presenter |
-| ----       | -----                                                                                                                                       | --------  |
-| 2024-08-19 | Welcome                                                                                                                                     |           |
+| Date       | Topic                                                                                                                                                           | Presenter |
+| ----       | -----                                                                                                                                                           | --------  |
+| 2024-08-19 | Welcome                                                                                                                                                         |           |
 | 2024-08-26 | paper 1: Automated Educational Question Generation at Different Bloom's Skill Levels Using Large Language Models: Strategies and Evaluation (Scaria, AIED 2024) | Nong      |
-|            | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024) | Nong      |
-|            | paper 3:                                                                                                                                    | Jiho      |
-|            | paper 4:                                                                                                                                    | Jiho      |
-|            | paper 5:                                                                                                                                    | Nursat    |
-|            | paper 6:                                                                                                                                    | Nursat    |
+|            | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024)                                | Nong      |
+|            | paper 3:                                                                                                                                                        | Jiho      |
+|            | paper 4:                                                                                                                                                        | Jiho      |
+|            | paper 5:                                                                                                                                                        | Nursat    |
+|            | paper 6:                                                                                                                                                        | Nursat    |
+|            | Problem Description                                                                                                                                             | Jaskaran  |
+|            | paper 7:                                                                                                                                                        | Jaskaran  |
+|            | paper 8:                                                                                                                                                        | Jaskaran  |
 
 
 ## [Paper pool](https://drive.google.com/drive/folders/1KI1sa4jGvi_7DeexGg8w7k1n-hOM-vPw?usp=sharing)
