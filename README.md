@@ -10,8 +10,8 @@
 |            | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024)                                | Nong      |
 |            | paper 3:                                                                                                                                                        | Jiho      |
 |            | paper 4:                                                                                                                                                        | Jiho      |
-|            | paper 5:                                                                                                                                                        | Nursat    |
-|            | paper 6:                                                                                                                                                        | Nursat    |
+|            | paper 5: BTREC: Bert-based trajectory recommendation for personalized tours                                                                                     | Nursat    |
+|            | paper 6: Combination of User and Venue Personality with Topic Modelling in Restaurant Recommender Systems                                                       | Nursat    |
 |            | Problem Description                                                                                                                                             | Jaskaran  |
 |            | paper 7:                                                                                                                                                        | Jaskaran  |
 |            | paper 8:                                                                                                                                                        | Jaskaran  |
