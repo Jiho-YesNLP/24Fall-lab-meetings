@@ -8,13 +8,12 @@
 | 2024-08-19 | Welcome                                                                                                                                                         |           |
 | 2024-08-26 | paper 1: Automated Educational Question Generation at Different Bloom's Skill Levels Using Large Language Models: Strategies and Evaluation (Scaria, AIED 2024) | Nong      |
 |            | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024)                                | Nong      |
-|            | paper 3:                                                                                                                                                        | Jiho      |
-|            | paper 4:                                                                                                                                                        | Jiho      |
-|            | paper 5: BTREC: Bert-based trajectory recommendation for personalized tours                                                                                     | Nursat    |
-|            | paper 6: Combination of User and Venue Personality with Topic Modelling in Restaurant Recommender Systems                                                       | Nursat    |
+|            | paper 3: Exploring quality criteria and evaluation methods in automated question generation: A comprehensive survey (Gorgun, EduIT 2024)                                                                                                                                                       | Jiho      |
+|            | paper 4: BTREC: Bert-based trajectory recommendation for personalized tours                                                                                     | Nursat    |
+|            | paper 5: Combination of User and Venue Personality with Topic Modelling in Restaurant Recommender Systems                                                       | Nursat    |
 |            | Problem Description                                                                                                                                             | Jaskaran  |
+|            | paper 6:                                                                                                                                                        | Jaskaran  |
 |            | paper 7:                                                                                                                                                        | Jaskaran  |
-|            | paper 8:                                                                                                                                                        | Jaskaran  |
 
 
 ## [Paper pool](https://drive.google.com/drive/folders/1KI1sa4jGvi_7DeexGg8w7k1n-hOM-vPw?usp=sharing)
@@ -27,8 +26,6 @@
     - Elkins, AIED 2023
 - Good Question! Statistical Ranking for Question Generation
     - Heilman, ACL 2010
-- Exploring quality criteria and evaluation methods in automated question generation: A comprehensive survey
-    - Gorgun, Education and Information Technologies 2024
 
 
 ### RecSys
