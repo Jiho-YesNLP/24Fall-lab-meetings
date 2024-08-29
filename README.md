@@ -3,29 +3,33 @@
 
 ## Schedule
 
-| Date       | Topic                                                                                                                                                           | Presenter |
-| ----       | -----                                                                                                                                                           | --------  |
+| Date  | Topic                                                                                                                                                           | Presenter |
+| ----  | -----                                                                                                                                                           | --------  |
 | 08/19 | Welcome                                                                                                                                                         |           |
 | 08/26 | paper 1: Automated Educational Question Generation at Different Bloom's Skill Levels Using Large Language Models: Strategies and Evaluation (Scaria, AIED 2024) | Nong      |
-|            | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024)                                | Nong      |
-|            | paper 3: Exploring quality criteria and evaluation methods in automated question generation: A comprehensive survey (Gorgun, EduIT 2024)                                                                                                                                                       | Jiho      |
-|            | paper 4: BTREC: Bert-based trajectory recommendation for personalized tours                                                                                     | Nursat    |
-|            | paper 5: Combination of User and Venue Personality with Topic Modelling in Restaurant Recommender Systems                                                       | Nursat    |
-|            | paper 6: Good Question! Statistical Ranking for Question Generation (Heilman, ACL 2010)                                                                                                                                                       | Jaskaran  |
-| 09/02 | | |
-| 09/09 | | |
-| 09/16 | RecTour Requrement Analysis | Nursat |
-| 09/23 | | |
-| 09/30 | RecTour Project Proposal | Nursat |
-| 10/07 | | |
-| 10/14 | | |
-| 10/21 | | |
-| 10/28 | | |
-| 11/04 | RecTour Progress Updates | Nursat |
-| 11/11 | | |
-| 11/18 | | |
-| 11/25 | | |
-| 12/02 | RecTour Findings | Nursat |
+|       | paper 2: Towards Automated Multiple Choice Question Generation and Evaluation: Aligning with Bloom's Taxonomy (Hwang, AIED 2024)                                | Nong      |
+|       | paper 3: Exploring quality criteria and evaluation methods in automated question generation: A comprehensive survey (Gorgun, EduIT 2024)                        | Jiho      |
+|       | paper 4: BTREC: Bert-based trajectory recommendation for personalized tours                                                                                     | Nursat    |
+|       | paper 5: Combination of User and Venue Personality with Topic Modelling in Restaurant Recommender Systems                                                       | Nursat    |
+|       | paper 6: Good Question! Statistical Ranking for Question Generation (Heilman, ACL 2010)                                                                         | Jaskaran  |
+| 09/02 | p7: Travel Bird: A Personalized Destination Recommender with TourBERT and Airbnb Experiences (Arefieva, WSDM 2023)                                              | Nursat    |
+|       | p8: Unlocking Uniqueness: Analyzing Online Reviews of Airbnb Experiences Using BERT-based Models (Zhang, J of Travel Research 2024)                             | Nursat    |
+|       | talk: BioLaySumm and RecTour                                                                                                                                    | Jiho      |
+|       | p9: (paper on summarization)                                                                                                                                    | Malavika  |
+|       | p10: (paper on question generation)                                                                                                                             | Jaskaran  |
+| 09/09 |                                                                                                                                                                 |           |
+| 09/16 | RecTour Requrement Analysis                                                                                                                                     | Nursat    |
+| 09/23 |                                                                                                                                                                 |           |
+| 09/30 | RecTour Project Proposal                                                                                                                                        | Nursat    |
+| 10/07 |                                                                                                                                                                 |           |
+| 10/14 |                                                                                                                                                                 |           |
+| 10/21 |                                                                                                                                                                 |           |
+| 10/28 |                                                                                                                                                                 |           |
+| 11/04 | RecTour Progress Updates                                                                                                                                        | Nursat    |
+| 11/11 |                                                                                                                                                                 |           |
+| 11/18 |                                                                                                                                                                 |           |
+| 11/25 |                                                                                                                                                                 |           |
+| 12/02 | RecTour Findings                                                                                                                                                | Nursat    |
 
 
 
