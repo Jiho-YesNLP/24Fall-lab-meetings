@@ -51,3 +51,12 @@
 ](https://kennesawedu-my.sharepoint.com/:b:/g/personal/jnoh3_kennesaw_edu/EfDL556B6ilFgHwInE1unhIBa1zyk7weOvLxVKqEIK42ww?e=ZCuuBn)
 - [Event Recommendations through the Lens of Vision and Language Foundation Models](https://kennesawedu-my.sharepoint.com/:b:/g/personal/jnoh3_kennesaw_edu/EW8QcwEGNv5GsaVNy4piQmUBasnFX6am1S8OCgWI0_sVQA?e=7czkLK)
 
+
+### NLP (esp. summarization)
+
+- Readability Controllable Biomedical Document Summarization
+    - Luo, EMNLP 2022
+- ChatGPT vs human-authored text: Insights into controllable text summarization and sentence style transfer
+    - Pu, ACL 2023
+- From sparse to dense: GPT-4 summarization with chain of density prompting
+    - Adams, New Frontiers in Summarization Workshop
