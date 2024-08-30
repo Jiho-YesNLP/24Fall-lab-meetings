@@ -16,6 +16,7 @@
 |       | p8: Unlocking Uniqueness: Analyzing Online Reviews of Airbnb Experiences Using BERT-based Models (Zhang, J of Travel Research 2024)                             | Nursat    |
 |       | talk: BioLaySumm and RecTour                                                                                                                                    | Jiho      |
 |       | p9: (paper on summarization)                                                                                                                                    | Malavika  |
+|       | talk: evaluation metrics for summarization tasks                                                                                                                | Malavika  |
 |       | p10: (paper on question generation)                                                                                                                             | Jaskaran  |
 | 09/09 |                                                                                                                                                                 |           |
 | 09/16 | RecTour Requrement Analysis                                                                                                                                     | Nursat    |
