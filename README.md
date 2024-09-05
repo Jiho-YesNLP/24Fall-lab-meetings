@@ -164,6 +164,46 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>10/14</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10/21</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10/28</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11/04</td>
+    <td>RecTour progress updates</td>
+    <td>Nurset</td>
+  </tr>
+  <tr>
+    <td>11/11</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11/18</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11/25</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12/02</td>
+    <td>RecTour Findings</td>
+    <td>Nursat</td>
+  </tr>
 </table>
 
 
