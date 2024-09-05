@@ -41,7 +41,10 @@
   </tr>
   <tr>
     <td></td>
-    <td>paper 6: Good Question! Statistical Ranking for Question Generation (Heilman, ACL 2010)</td>
+    <td>
+        paper 6: Good Question! Statistical Ranking for Question Generation (Heilman, ACL 2010)
+        [<a href="https://aclanthology.org/N10-1086.pdf">pdf</a>]
+    </td>
     <td>Jaskaran</td>
   </tr>
   <tr>
