@@ -107,8 +107,11 @@
   </tr>
   <tr>
     <td>09/09</td>
-    <td></td>
-    <td></td>
+    <td>
+        p13: Hotel Reviews Classification and Review-based Recommendation Model Construction using BERT and RoBERTa (Pramudya, ICOIACT 2023)
+        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10455890">pdf</a>]]
+    </td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>09/16</td>
