@@ -115,8 +115,8 @@
   </tr>
   <tr>
     <td>09/16</td>
-    <td>RecTour Requrement Analysis</td>
-    <td>Nursat</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>09/23</td>
@@ -125,8 +125,8 @@
   </tr>
   <tr>
     <td>09/30</td>
-    <td>RecTour Project Proposal</td>
-    <td>Nursat</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>10/07</td>
@@ -140,8 +140,8 @@
   </tr>
   <tr>
     <td>10/21</td>
-    <td></td>
-    <td></td>
+    <td>RecTour Project Requirement Analysis and Proposal</td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>10/28</td>
@@ -150,13 +150,13 @@
   </tr>
   <tr>
     <td>11/04</td>
-    <td>RecTour progress updates</td>
-    <td>Nurset</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>11/11</td>
-    <td></td>
-    <td></td>
+    <td>RecTour progress updates</td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>11/18</td>
