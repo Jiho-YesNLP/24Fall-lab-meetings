@@ -109,7 +109,7 @@
     <td>09/09</td>
     <td>
         p13: Hotel Reviews Classification and Review-based Recommendation Model Construction using BERT and RoBERTa (Pramudya, ICOIACT 2023)
-        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10455890">pdf</a>]]
+        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10455890">pdf</a>]
     </td>
     <td>Nursat</td>
   </tr>
@@ -117,7 +117,7 @@
     <td></td>
     <td>
         p14:  Human-LLM collaborative annotation through effective verification of LLM labels (Wang, CHI 2024)
-        [<a href="https://dl.acm.org/doi/abs/10.1145/3613904.3641960?casa_token=9bV3_0eFDaIAAAAA:OLhS1fvtN7hCTx6jlWWhe7ZiWYKn56qP7yFlnA29OrsxrxrF8jQbkbG_CZL0e0F5RTFanaPTBlK7Vac">pdf</a>]]
+        [<a href="https://dl.acm.org/doi/abs/10.1145/3613904.3641960?casa_token=9bV3_0eFDaIAAAAA:OLhS1fvtN7hCTx6jlWWhe7ZiWYKn56qP7yFlnA29OrsxrxrF8jQbkbG_CZL0e0F5RTFanaPTBlK7Vac">pdf</a>]
     </td>
     <td>Nong</td>
   </tr>
@@ -125,7 +125,7 @@
     <td></td>
     <td>
         p14: Dataset of computer science course queries from students: Categorized and scored according to Bloom's taxonomy? (Zaman, Data in Brief 2024)
-        [<a href="https://dl.acm.org/doi/abs/10.1145/3613904.3641960?casa_token=9bV3_0eFDaIAAAAA:OLhS1fvtN7hCTx6jlWWhe7ZiWYKn56qP7yFlnA29OrsxrxrF8jQbkbG_CZL0e0F5RTFanaPTBlK7Vac">pdf</a>]]
+        [<a href="https://dl.acm.org/doi/abs/10.1145/3613904.3641960?casa_token=9bV3_0eFDaIAAAAA:OLhS1fvtN7hCTx6jlWWhe7ZiWYKn56qP7yFlnA29OrsxrxrF8jQbkbG_CZL0e0F5RTFanaPTBlK7Vac">pdf</a>]
     </td>
     <td>Nong</td>
   </tr>
