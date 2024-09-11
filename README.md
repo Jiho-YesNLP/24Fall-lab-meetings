@@ -131,8 +131,11 @@
   </tr>
   <tr>
     <td>09/16</td>
-    <td></td>
-    <td></td>
+    <td>
+        p16: Retrieval Augmented Generation (RAG) based Restaurant Chatbot with AI Testability
+        [<a href="https://shorturl.at/ePPPZ">pdf</a>]
+    </td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>09/23</td>
