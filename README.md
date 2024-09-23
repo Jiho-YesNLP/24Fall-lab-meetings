@@ -139,8 +139,26 @@
   </tr>
   <tr>
     <td>09/23</td>
+    <td>
+        p17: Searching for Best Practices in Retrieval-Augmented Generation
+        [<a href="https://arxiv.org/pdf/2407.01219?trk=public_post_comment-text">pdf</a>]
+    </td>
+    <td>Malavika</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>
+        p18: Searching for Best Practices in Retrieval-Augmented Generation
+        [<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657840">pdf</a>]
+    </td>
+    <td>Nursat</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>
+        BT classification of Questions 
+    </td>
+    <td>Nong</td>
   </tr>
   <tr>
     <td>09/30</td>
