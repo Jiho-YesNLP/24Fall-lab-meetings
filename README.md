@@ -162,13 +162,16 @@
   </tr>
   <tr>
     <td>09/30</td>
-    <td></td>
+    <td>Canceled</td>
     <td></td>
   </tr>
   <tr>
     <td>10/07</td>
-    <td></td>
-    <td></td>
+    <td>
+        p19: WikiWhy: Answering and Explaining Cause-and-Effect Questions
+        [<a href="https://arxiv.org/pdf/2210.12152">pdf</a>]
+    </td>
+    <td>Nong</td>
   </tr>
   <tr>
     <td>10/14</td>
