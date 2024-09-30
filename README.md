@@ -138,6 +138,20 @@
     <td>Nursat</td>
   </tr>
   <tr>
+    <td></td>
+    <td>
+        Questioning in YouTube Educational Videos
+    </td>
+    <td>Nong</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+        Question Generation using Large Language Models: SAT Questions
+    </td>
+    <td>Jaskaran</td>
+  </tr>
+  <tr>
     <td>09/23</td>
     <td>
         p17: Searching for Best Practices in Retrieval-Augmented Generation
