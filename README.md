@@ -188,6 +188,29 @@
     <td>Nong</td>
   </tr>
   <tr>
+    <td></td>
+    <td>
+        p20: Leveraging Large Language Models for Conversational Recommender Systems
+        [<a href="https://arxiv.org/pdf/2305.07961">pdf</a>]
+    </td>
+    <td>Nursat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+        p21: Pre-trained Sequential Recommendation Framework via Popularity Dynamics
+        [<a href="https://arxiv.org/pdf/2401.01497">pdf</a>]
+    </td>
+    <td>Nursat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+        Review SAT question survey.
+    </td>
+    <td>Jaskaran</td>
+  </tr>
+  <tr>
     <td>10/14</td>
     <td></td>
     <td></td>
