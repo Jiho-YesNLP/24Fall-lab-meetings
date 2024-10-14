@@ -212,8 +212,29 @@
   </tr>
   <tr>
     <td>10/14</td>
+    <td>
+        p22: Team YXZ at BioLaySumm: Adapting Large Language Models for Biomedical Lay Summarization
+        [<a href="https://aclanthology.org/2024.bionlp-1.76.pdf">pdf</a>]
+    </td>
+    <td>Malavika</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>
+        p23: Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights
+        [<a href="https://dl.acm.org/doi/pdf/10.1145/3631700.3665233">pdf</a>]
+    </td>
+    <td>Nong</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>SAT generated question survey design</td>
+    <td>Jaskaran</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>RecTour Project Requirement Analysis and Proposal</td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>10/21</td>
