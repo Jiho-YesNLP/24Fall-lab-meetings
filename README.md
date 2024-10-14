@@ -238,8 +238,8 @@
   </tr>
   <tr>
     <td>10/21</td>
-    <td>RecTour Project Requirement Analysis and Proposal</td>
-    <td>Nursat</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>10/28</td>
