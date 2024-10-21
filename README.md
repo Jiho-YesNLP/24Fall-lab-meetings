@@ -243,8 +243,19 @@
   </tr>
   <tr>
     <td>10/21</td>
+    <td>
+        Can Autograding of Student-Generated Questions Quality by ChatGPT Match Human Experts?
+        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10510637">pdf</a>]
+    </td>
+    <td>Nong</td>
+  </tr>
+  <tr>
     <td></td>
-    <td></td>
+    <td>
+        Hybrid recommendation by incorporating the sentiment of product reviews
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0020025523000518">pdf</a>]
+    </td>
+    <td>Nursat</td>
   </tr>
   <tr>
     <td>10/28</td>
