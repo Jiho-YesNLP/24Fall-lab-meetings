@@ -264,8 +264,24 @@
   </tr>
   <tr>
     <td>11/04</td>
+    <td>
+        Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering
+    </td>
+    <td>Nursat</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>
+        Are key-Phrases All that Reviewers Care About? A comprehensive Benchmarking of Reviewer Matchmaking Systems
+    </td>
+    <td>Nong</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>
+        Exploration of Closed-Domain Question Answering Explainability Methods with a Sentence-Level Rationale Dataset
+    </td>
+    <td>Jiho</td>
   </tr>
   <tr>
     <td>11/11</td>
