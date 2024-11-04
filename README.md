@@ -272,7 +272,7 @@
   <tr>
     <td>11/04</td>
     <td>
-        Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering<br/>
+        Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels<br/>
         Hotel review problem formalization and implementation plan
     </td>
     <td>Nursat</td>
