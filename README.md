@@ -258,6 +258,13 @@
     <td>Nursat</td>
   </tr>
   <tr>
+    <td></td>
+    <td>
+        report on SAT Q-gen data analysis
+    </td>
+    <td>Jaskaran</td>
+  </tr>
+  <tr>
     <td>10/28</td>
     <td></td>
     <td></td>
@@ -265,7 +272,8 @@
   <tr>
     <td>11/04</td>
     <td>
-        Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering
+        Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering<br/>
+        Hotel review problem formalization and implementation plan
     </td>
     <td>Nursat</td>
   </tr>
